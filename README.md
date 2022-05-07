@@ -1,3 +1,5 @@
+# Caution !
+Don't use jest for this project, I tried to upload my solution many times of Dashboard but it didn't worked for me.
 # Pre-requisites
 * NodeJS 12.6.0/14.15.4/16.10.0
 * npm
